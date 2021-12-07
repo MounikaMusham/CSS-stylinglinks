@@ -1,0 +1,33 @@
+
+.div{
+    
+    text-align: center;
+    background-color:yellowgreen;
+    margin-top: 30px;
+    width: 700px;
+    margin-left: 200px;
+    border-radius: 8px;
+
+}
+
+a:link{
+    color:white;
+    text-decoration: none;
+
+}
+a:hover{
+    color: rgb(210, 30, 135);
+}
+/* a:visited {
+    color: rgb(239, 243, 245);
+} */
+a:active{
+    color: green;
+}
+
+.one{
+    padding: 10;
+    font-size: 30px;
+    font-weight: bold;
+
+}
